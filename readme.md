@@ -29,18 +29,18 @@ league/fractal<br />
 **Public assets**
 public/assests/
 
-|-- ccs/
-|    |-- materialize.css
-|    |-- materialize.min.css
-|    |-- animate.css
-
-|-- fonts/
-|    |-- material-design-icons/
-|    |-- roboto/
-
-|-- js/
-|    |-- materialize.js
-|    |-- materialize.min.js 
+|-- ccs/<br />
+|    |-- materialize.css<br />
+|    |-- materialize.min.css<br />
+|    |-- animate.css<br />
+<br />
+|-- fonts/<br />
+|    |-- material-design-icons/<br />
+|    |-- roboto/<br />
+<br />
+|-- js/<br />
+|    |-- materialize.js<br />
+|    |-- materialize.min.js <br />
 
 
 
