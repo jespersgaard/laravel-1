@@ -26,6 +26,23 @@ barryvdh/laravel-cors<br />
 prettus/l5-repository<br />
 league/fractal<br />
 
+**Public assets**
+public/assests/
+
+|-- ccs/
+|    |-- materialize.css
+|    |-- materialize.min.css
+|    |-- animate.css
+
+|-- fonts/
+|    |-- material-design-icons/
+|    |-- roboto/
+
+|-- js/
+|    |-- materialize.js
+|    |-- materialize.min.js 
+
+
 
 ## Official Documentation
 
